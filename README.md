@@ -36,14 +36,23 @@ Data Exchanged: Text editor content in real time
 
 realtime-doc-editor/
 ├── client/           → React.js frontend
+
 │   ├── src/
+
 │   ├── public/
+
 │   └── package.json
+
 ├── server/           → Node.js + Socket.IO backend
+
 │   ├── index.js
+
 │   └── package.json
+
 ├── README.md         → Project details
+
 ├── .gitignore
+
 └── screenshot.png    → App preview
 
 📷 App Preview
