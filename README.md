@@ -12,7 +12,7 @@
 
 📌DESCRITION:
 
-As part of Task 2 for the CodTech Full Stack Development Internship, I built a real-time collaborative document editor. This editor allows multiple users to type simultaneously and view each other's input live, using WebSockets via Socket.IO.This tool replicates basic real-time text sync functionality like Google Docs, where edits made in one browser reflect instantly in another without refreshing.
+As part of Task 3 for the CodTech Full Stack Development Internship, I built a real-time collaborative document editor. This editor allows multiple users to type simultaneously and view each other's input live, using WebSockets via Socket.IO.This tool replicates basic real-time text sync functionality like Google Docs, where edits made in one browser reflect instantly in another without refreshing.
 
 🛠️ Technologies Used
 
